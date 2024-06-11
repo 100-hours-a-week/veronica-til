@@ -10,7 +10,7 @@
 
 24.06.11 (상세 내역 링크)
 
-24.06.10 ([TIL])(https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-10.md))
+24.06.10 ([TIL](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-10.md))
 
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
