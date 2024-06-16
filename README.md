@@ -17,6 +17,8 @@
 
 24.06.14 SAT([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-15.md))
 
+24.06.15 SUN([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-16.md))
+
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
