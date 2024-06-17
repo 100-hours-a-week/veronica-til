@@ -2,6 +2,22 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [6월 넷째주, 10주차] : react
+
+24.06.17 MON([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-17.md))
+
+24.06.18 TUE([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-18.md))
+
+24.06.19 WED([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-19.md))
+
+24.06.20 THU([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-10.md))
+
+24.06.21 FRI([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-21.md))
+
+24.06.22 SAT([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-22.md))
+
+24.06.23 SUN([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-23.md))
+
 ### [6월 셋째주, 9주차] : react, spring
 
 
