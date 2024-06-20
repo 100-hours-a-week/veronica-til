@@ -10,7 +10,7 @@
 
 24.06.19 WED([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-19.md))
 
-24.06.20 THU([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-10.md))
+24.06.20 THU([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-20.md))
 
 24.06.21 FRI([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-21.md))
 
