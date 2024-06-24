@@ -4,6 +4,22 @@
 
 ### [6월 넷째주, 10주차] : react
 
+24.06.24 MON([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-24.md))
+
+24.06.25 TUE([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-25.md))
+
+24.06.26 WED([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-26.md))
+
+24.06.27 THU([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-27.md))
+
+24.06.28 FRI([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-28.md))
+
+24.06.29 SAT([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-29.md))
+
+24.06.30 SUN([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-30.md))
+
+### [6월 넷째주, 10주차] : react
+
 24.06.17 MON([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-17.md))
 
 24.06.18 TUE([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-18.md))
