@@ -2,7 +2,7 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [6월 넷째주, 10주차] : react
+### [6월 다섯째주, 11주차] : react
 
 24.06.24 MON([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/Jun/2024-06-24.md))
 
