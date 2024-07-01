@@ -4,19 +4,19 @@
 
 ### [7월 첫째주, 12주차]
 
-24.07.01 MON([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7Jul/2024-07-01.md))
+24.07.01 MON([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-01.md))
 
-24.07.02 TUE([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7Jul/2024-07-02.md))
+24.07.02 TUE([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-02.md))
 
-24.07.03 WED([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7Jul/2024-07-03.md))
+24.07.03 WED([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-03.md))
 
-24.07.04 THU([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7Jul/2024-07-04.md))
+24.07.04 THU([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-04.md))
 
-24.07.05 FRI([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7Jul/2024-07-05.md))
+24.07.05 FRI([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-05.md))
 
-24.07.06 SAT([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7Jul/2024-07-06.md))
+24.07.06 SAT([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-06.md))
 
-24.07.07 SUN([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7Jul/2024-07-07.md))
+24.07.07 SUN([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-07.md))
 
 ### [6월 다섯째주, 11주차]
 
