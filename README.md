@@ -2,6 +2,22 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [7월 둘째주, 13주차]
+
+24.07.08 MON([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-08.md))
+
+24.07.09 TUE([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-09.md))
+
+24.07.10 WED([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-10.md))
+
+24.07.11 THU([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-11.md))
+
+24.07.12 FRI([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-12.md))
+
+24.07.13 SAT([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-13.md))
+
+24.07.14 SUN([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-14.md))
+
 ### [7월 첫째주, 12주차]
 
 24.07.01 MON([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-01.md))
@@ -14,9 +30,6 @@
 
 24.07.05 FRI([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-05.md))
 
-24.07.06 SAT([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-06.md))
-
-24.07.07 SUN([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-07.md))
 
 ### [6월 다섯째주, 11주차]
 
