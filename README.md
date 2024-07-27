@@ -9,10 +9,6 @@
 
 24.07.24 WED([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-24.md))
 
-24.07.25 THU([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-25.md))
-
-24.07.26 FRI([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-26.md))
-
 24.07.27 SAT([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-27.md))
 
 24.07.28 SUN([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-28.md))
