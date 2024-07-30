@@ -1,7 +1,16 @@
 # til-template.
 
 ## 오늘 내가 배운 것들(Today I Learned)
-### [6월 넷째주, 10주차]
+### [7월 넷째주, 8월 첫째주 16주차]
+
+24.07.29 MON([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-29.md))
+
+24.07.30 TUE([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-30.md))
+
+24.07.31 WED([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-31.md))
+
+
+### [7월 넷째주, 15주차]
 
 24.07.22 MON([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/7JUL/2024-07-22.md))
 
