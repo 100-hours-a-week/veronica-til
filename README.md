@@ -8,10 +8,6 @@
 
 24.08.13 TUE([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/8Aug/2024-08-13.md))
 
-24.08.14 WED([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/8Aug/2024-08-14.md))
-
-24.08.15 THU([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/8Aug/2024-08-15.md))
-
 24.08.16 FRI([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/8Aug/2024-08-16.md))
 
 24.08.17 SAT([🔗🔗](https://github.com/100-hours-a-week/veronica-til/blob/main/8Aug/2024-08-17.md))
